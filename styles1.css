@@ -1,0 +1,16 @@
+body {
+    font-size: 24px;
+}
+span.red {
+    color: red;
+}
+span.green {
+    color: green;
+}
+p.semibold {
+    font-weight: 600;
+}
+p.semibold-italic {
+    font-weight: 600;
+    font-style: italic;
+}
